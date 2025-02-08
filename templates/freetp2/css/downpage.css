@@ -1,0 +1,23 @@
+/*
+---------------------------------------
+   Styles for DownPage by iGrock
+---------------------------------------
+*/
+html,body{ margin:0px; padding:0px; font-family:tahoma, verdana; font-size:12px; color: #333333; background: url(../../../bgr_new.gif) #D7CDB4;}
+td{font-size: 12px; color: #aaaaaa;}
+.d1{border: 1px solid #d5cCb6;background: #d0c6b1;width: 907px;padding: 1px;}
+.d2{border: 1px solid #bAb3a1;}
+.td1{background: #ffffff;color: #4D4D4D;border: 1px solid #ffffff;width: 905;}
+img{border: 0px;}
+a{color: #858585;}
+a:hover{text-decoration: underline;color: #777777;}
+a:visited{color: #858585;}
+a:active{color: #858585;}
+a:link{color: #858585;}
+.td2{background: #ffffff;color: #4D4D4D;border: 16px solid #ffffff;}
+.d3{border: 1px solid #d5cCb6;background: #d0c6b1;width: 307;padding: 1px;}
+form{margin: 0;}
+select, input, textarea{border: 1px solid #97ADEA;padding: 1px;}
+select:focus, input:focus, textarea:focus{border: 1px solid #800000;}
+.button {height:22px;border-color:#9bb838 #9bb838 #9bb838 #9bb838;border-style:solid;border-width:1px;background:#c2e254;cursor:pointer;font-family: tahoma, verdana;font-size: 12px;}
+.button:hover {border-color:#FFCC66 #FFCC66 #FFCC66 #FFCC66;border-style:solid;border-width:1px;background:#FFFF99;}
